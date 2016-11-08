@@ -1,17 +1,17 @@
 /**
- *   File Name: InvalidAcceptableNumberException.java<br>
+ *   File Name: DataType.java<br>
  *
  *   Green, Lorne<br>
  *   Java <br>
  *   <br>
- *   Created: Oct 10, 2016
+ *   Created: Nov 7, 2016
  *   
  */
 
 package com.sqa.lg.helpers;
 
 /**
- * InvalidAcceptableNumberException //ADDD (description of class)
+ * DataType //ADDD (description of class)
  * <p>
  * //ADDD (description of core fields)
  * <p>
@@ -22,6 +22,6 @@ package com.sqa.lg.helpers;
  * @since       1.0
  *
  */
-public class InvalidAcceptableNumberException extends Exception {
+public class DataType {
 
 }
