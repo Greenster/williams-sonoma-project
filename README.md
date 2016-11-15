@@ -1,4 +1,4 @@
-#Java Automation Project
+#William-Sonoma Automation Project
 ##Base Point for Java Automation Projects
 
 *Project for creating automation tests using Selenium WebDriver and TestNG.*
